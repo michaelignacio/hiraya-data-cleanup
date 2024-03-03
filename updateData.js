@@ -1,62 +1,53 @@
-const fs = require('fs');
 const axios = require('axios');
+const fs = require('fs/promises'); // Using the promises version for async/await
 
-// Read the data.json file
-const dataPath = 'data.json';
+const DATA_FILE_PATH = 'data.json';
 
-fs.readFile(dataPath, 'utf8', async (err, data) => {
-  if (err) {
-    console.error('Error reading data.json:', err);
-    return;
-  }
-
+async function removeInvalidLinks() {
   try {
-    const jsonData = JSON.parse(data);
+    // Read the data from the JSON file
+    const rawData = await fs.readFile(DATA_FILE_PATH, 'utf-8');
+    const dataArray = JSON.parse(rawData);
 
-    // Function to check if a link is valid
-    const isLinkValid = async (link) => {
-      try {
-        const response = await axios.head(link);
-        return response.status === 200;
-      } catch (error) {
-        return false;
-      }
-    };
+    for (let i = 0; i < dataArray.length; i++) {
+      const data = dataArray[i];
+      const slide = data.slide;
 
-    // Function to filter out invalid links
-    const filterValidLinks = async (slides) => {
-      const validSlides = [];
+      for (const key in slide) {
+        const link = slide[key][0]; // Assuming the link is always at index 0
 
-      for (const slide of slides) {
-        const [id, link] = slide;
-        if (await isLinkValid(link)) {
-          validSlides.push([id, link]);
-        } else {
-          console.log(`Removing invalid link: ${link}`);
+        // Check if the link is valid
+        const isValid = await isLinkValid(link);
+
+        // If the link is not valid (returns 404), remove the entry from the slide object
+        if (!isValid) {
+          console.log(`Removing invalid link at key ${key} in object ${i}: ${link}`);
+          delete slide[key];
         }
       }
 
-      return validSlides;
-    };
+      console.log(`Invalid links removed in object ${i}:`, slide);
+    }
 
-    // Update the data with valid links
-    const updatedData = jsonData.map(item => {
-      if (item.slides && Array.isArray(item.slides)) {
-        const validSlides = filterValidLinks(item.slides);
-        return { ...item, slides: validSlides };
-      }
-      return item;
-    });
+    // Write the updated data back to the JSON file
+    await fs.writeFile(DATA_FILE_PATH, JSON.stringify(dataArray, null, 2));
 
-    // Write the updated data back to data.json
-    fs.writeFile(dataPath, JSON.stringify(updatedData, null, 2), 'utf8', (writeErr) => {
-      if (writeErr) {
-        console.error('Error writing to data.json:', writeErr);
-      } else {
-        console.log('Data.json updated successfully.');
-      }
-    });
-  } catch (parseError) {
-    console.error('Error parsing data.json:', parseError);
+    console.log('All objects processed.');
+  } catch (error) {
+    console.error('Error:', error.message);
   }
-});
+}
+
+async function isLinkValid(link) {
+  try {
+    // Make a HEAD request to check if the link returns a 2xx status
+    const response = await axios.head(link);
+    return response.status >= 200 && response.status < 300;
+  } catch (error) {
+    // If there's an error (e.g., 404), consider the link invalid
+    return false;
+  }
+}
+
+// Run the script
+removeInvalidLinks();

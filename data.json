@@ -2673,109 +2673,13 @@
     "end_date": "November 13, 2019",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Under-Water-Chronicles-Breathe.jpg",
-        "3802"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Under-Water-Chronicles-Dive.jpg",
-        "3803"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Alon.jpg",
-        "3781"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Above-the-Waves-III.jpg",
-        "3780"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Anemones-II-Flowers-of-the-Sea-Series.jpg",
-        "3783"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Anemones-I-Flowers-of-the-Sea-Series.jpg",
-        "3782"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Above-the-Waves-II.jpg",
-        "3779"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Above-the-Waves-I.jpg",
-        "3778"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Above-the-Waves-16.jpg",
-        "3777"
-      ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/The-Rising-Tide-III-Series.jpg",
         "3801"
       ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/The-Rising-Tide-II.jpg",
-        "3800"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/The-Rising-Tide-I.jpg",
-        "3799"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Out-of-the-Blue.jpg",
-        "3796"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Picturesque-Fantasy.jpg",
-        "3797"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/I.jpg",
-        "3790"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/II.jpg",
-        "3791"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Heart-and-Soul.jpg",
-        "3789"
-      ],
-      "18": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Basco-Lighthouse-Batanes.jpg",
-        "3785"
-      ],
-      "19": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Bakasyunan-sa-Parola-ng-Bolinao.jpg",
-        "3784"
-      ],
-      "20": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Lubang-Lighthouse.jpg",
-        "3793"
-      ],
-      "21": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Tayid-Lighthouse-Batanes.jpg",
-        "3798"
-      ],
-      "22": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Lighthouse-in-Intramuros.jpg",
-        "3792"
-      ],
-      "23": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Casco-Boats-at-Pasig-Circa-1880.jpg",
-        "3787"
-      ],
-      "24": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Maniguin-Lighthouse-Antique-Province.jpg",
-        "3795"
-      ],
       "25": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Malabrigo-Lighthouse-Batangas.jpg",
         "3794"
-      ],
-      "26": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/11/Capul-Lighthouse-Samar.jpg",
-        "3786"
       ]
     },
     "_links": {
@@ -3202,10 +3106,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/10/16b-Pick-Up-Sticks.jpg",
         "3684"
       ],
-      "63": [
-        "",
-        "3683"
-      ],
       "64": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/10/16-Trio.jpg",
         "3682"
@@ -3281,10 +3181,6 @@
       "82": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/10/25-Claws.jpg",
         "3664"
-      ],
-      "83": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2019/10/6-Sting.jpg",
-        "3663"
       ]
     },
     "_links": {
@@ -4116,10 +4012,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/12/Sakuma_Nagisa-1-Shore-50-x-50cm.jpg",
         "3625"
       ],
-      "10": [
-        "",
-        "3624"
-      ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/12/Sakuma_Nagare-5-Stream-120-x-120cm.jpg",
         "3623"
@@ -4147,10 +4039,6 @@
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/12/Sakuma_Hachigatsu-August-30-x-30cm.jpg",
         "3617"
-      ],
-      "18": [
-        "",
-        "3616"
       ],
       "19": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/12/Sakuma_Dou-Movement-60-x-80cm.jpg",
@@ -5097,10 +4985,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/08/4-rev_isolation-area.jpg",
         "3536"
       ],
-      "9": [
-        "",
-        "3540"
-      ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/08/rev_escaping-fools.jpg",
         "3539"
@@ -5295,14 +5179,6 @@
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/08/Minglanilla.jpg",
         "3532"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/08/Mario-de-Rivera_Landscape-with-Saints-No.-9-Mixed-Media-61-x-81.jpg",
-        "3531"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/08/Mario-de-Rivera_Landscape-with-Saints-No.-8-Mixed-Media-61-x-81.jpg",
-        "3530"
       ]
     },
     "_links": {
@@ -5479,41 +5355,9 @@
     "end_date": "July 20, 2018",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-red-4.jpg",
-        "3520"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-yellow-and-red-3.jpg",
-        "3522"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-red-5.jpg",
         "3521"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-blue-1.jpg",
-        "3517"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-green-5.jpg",
-        "3519"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-composition-in-green-3.jpg",
-        "3518"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-window-of-the-sea.jpg",
-        "3526"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-shells-of-the-sea.jpg",
-        "3524.3525"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/06/Bangka-ships-bow-in-blue.jpg",
-        "3525"
       ]
     },
     "_links": {
@@ -5692,10 +5536,6 @@
     "end_date": "May 18, 2018",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Fernando-Modesto-Invite-1.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Bygones-Bi-Planes-Bayou-Oil-on-Canvas-122-x-122cm-1996.jpg",
-        "3507"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Untitled-I-Oil-on-Canvas-91.5-x-120.jpg",
         "3514"
@@ -5704,21 +5544,9 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/2018-I-Love-You-Paris-1.jpg",
         "3506"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Stravinsky-Angel.jpg",
-        "3513"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Feel-Picasso.jpg",
-        "3508"
-      ],
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Grass.jpg",
         "3511"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Second-Heaven.jpg",
-        "3512"
       ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2018/04/Fernando-Modesto_Traffic-Lights-Oil-on-Canvas130.jpg",
@@ -6611,30 +6439,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Lorenzo_Our-Stars-We-Find.jpg",
         "3453"
       ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Phantasmagoria.jpg",
-        "3455"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Baguio-Scene.jpg",
-        "3450"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Sequi-Cu-Unjieng_Cohabitation-2017.jpg",
-        "3457"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Sequi-Cu-Unjieng_Top-of-the-World-2017.jpg",
-        "3459"
-      ],
-      "9": [
-        "",
-        "3458"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Origami-Birds.jpg",
-        "3454"
-      ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/11/Gudino-Work.jpg",
         "3451"
@@ -6826,93 +6630,9 @@
     "end_date": "January 16, 2018",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/DING-XIAN-POSTER-2.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Untitled.jpg",
-        "3447"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/The-Crown-of-Life.jpg",
-        "3446"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-10.jpg",
-        "3445"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-8.jpg",
-        "3444"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-7.jpg",
-        "3443"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-6.jpg",
-        "3442"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-4.jpg",
-        "3441"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Taiwan-2.jpg",
-        "3440"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Spread-the-Wings.jpg",
-        "3439"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-6.jpg",
-        "3438"
-      ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-5.jpg",
         "3437"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-3.jpg",
-        "3436"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Orient-75.jpg",
-        "3435"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Orient-55.jpg",
-        "3434"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/new-butterfly-2.jpg",
-        "3433"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/new-butterfly-1.jpg",
-        "3432"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Mountain-7.jpg",
-        "3431"
-      ],
-      "18": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/MOUNTAIN-3.jpg",
-        "3430"
-      ],
-      "19": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/manila3.jpg",
-        "3429"
-      ],
-      "20": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/manila2.jpg",
-        "3428"
-      ],
-      "21": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/manila1.jpg",
-        "3427"
-      ],
-      "22": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/From-Scratch.jpg",
-        "3426"
       ],
       "23": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Eastwind-12.jpg",
@@ -7105,22 +6825,6 @@
     "end_date": "November 11, 2017",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Yang-ding-front-1.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-8.jpg",
-        "3422"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-12.jpg",
-        "3420"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-10.jpg",
-        "3419"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-9.jpg",
-        "3418"
-      ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/10/Out-of-Time-7.jpg",
         "3417"
@@ -7340,10 +7044,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Landscape-with-Saints-No.jpg",
         "3405"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Minglanilla.jpg",
-        "3408"
-      ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Dont-let-the-Forest-Hear-me-Crying-6.jpg",
         "3404"
@@ -7359,10 +7059,6 @@
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Dont-let-the-Forest-Hear-me-Crying-3.jpg",
         "3401"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Push-the-Clouds-Away.jpg",
-        "3409"
       ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/09/Map-of-my-Heart-No.jpg",
@@ -7929,18 +7625,6 @@
       "32": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/08/Cesar-Legaspi_1972-Pen-and-Ink-36-x-22cm.jpg",
         "3350"
-      ],
-      "33": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/08/Botong-Francisco43-x-69.jpg",
-        "3349"
-      ],
-      "34": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/08/BenCab_1980-Etching-25-x-28cm.jpg",
-        "3348"
-      ],
-      "35": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/08/BenCab_1975Etching-30-x-25cm.jpg",
-        "3347"
       ]
     },
     "_links": {
@@ -8148,10 +7832,6 @@
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/07/Hiraya-Dream-Harder.jpg",
         "3337"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/07/Hesus-Memantaka.jpg",
-        "3336"
       ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/07/Haliya.jpg",
@@ -8602,18 +8282,6 @@
     "end_date": "June 30, 2017",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/pancho-front.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/1.jpg",
-        "3282"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/2.jpg",
-        "3283"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/3.jpg",
-        "3284"
-      ],
       "4": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/4.jpg",
         "3285"
@@ -8637,82 +8305,6 @@
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/9.jpg",
         "3290"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/10.jpg",
-        "3291"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/11.jpg",
-        "3292"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/12.jpg",
-        "3293"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/13.jpg",
-        "3294"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/14.jpg",
-        "3295"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/15.jpg",
-        "3296"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/16.jpg",
-        "3297"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/17.jpg",
-        "3298"
-      ],
-      "18": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/18.jpg",
-        "3299"
-      ],
-      "19": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/19.jpg",
-        "3300"
-      ],
-      "20": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/20.jpg",
-        "3301"
-      ],
-      "21": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/21.jpg",
-        "3302"
-      ],
-      "22": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/22.jpg",
-        "3303"
-      ],
-      "23": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/23.jpg",
-        "3304"
-      ],
-      "24": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/24-biggest-piece.jpg",
-        "3305"
-      ],
-      "25": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/25.jpg",
-        "3306"
-      ],
-      "26": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/26.jpg",
-        "3307"
-      ],
-      "27": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/27.jpg",
-        "3308"
-      ],
-      "28": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/28.jpg",
-        "3309"
       ]
     },
     "_links": {
@@ -8912,10 +8504,6 @@
     "end_date": "June 17, 2017",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/KolorSugbu-invite.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/SYM_Fruits-Composition-1.jpg",
-        "3279"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Romy-Ballada_Serenade.jpg",
         "3278"
@@ -8927,22 +8515,6 @@
       "4": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Ramon-de-Dios_At-the-Museum.jpg",
         "3276"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Nestor-Villanueva_Syntactical-Forms.jpg",
-        "3275"
-      ],
-      "6": [
-        "",
-        "3274"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Mariano-Vidal_Harvest-in.jpg",
-        "3273"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Jose-Villadolid_San-Remigio-Cove.jpg",
-        "3272"
       ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Jonathan-Galicano_Old-Oslob-Church.jpg",
@@ -8959,18 +8531,6 @@
       "12": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Dong-Tallo_Morning-Catch.jpg",
         "3268"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Clint-Normandia_Sinulog-Dancer-Series-7.jpg",
-        "3267"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Cee-Cadid_Samot-Sari.jpg",
-        "3266"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Carly-Florido_Mannequin.jpg",
-        "3265"
       ],
       "16": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/06/Carly-Florido_A-Matter-of-Privacy.jpg",
@@ -9186,10 +8746,6 @@
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/05/Austria_The-Watchers.jpg",
         "3255"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/05/Austria_Isolation.jpg",
-        "3254"
       ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/05/Austria_Half-Liberty.jpg",
@@ -9701,10 +9257,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_-CUNTSerigraph-and-Pen-24-x-72-inches.jpg",
         "3206"
       ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_-CandySerigraph-and-Pen-24-x-72-inches.jpg",
-        "3205"
-      ],
       "14": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_Ribs-Teal-Serigraph-24-x-18-inches.jpg",
         "3222"
@@ -9712,14 +9264,6 @@
       "15": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_Ribs-Tangerine-Serigraph-24-x-18-inches.jpg",
         "3221"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_Ribs-Lime-Serigraph-24-x-18-inches.jpg",
-        "3220"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_Ribs-Fuschia-Serigraph-24-x-18-inches.jpg",
-        "3219"
       ],
       "18": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Alex-_Jouissance-III-Serigraph-24-x-18-inches.jpg",
@@ -9953,14 +9497,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Kris-Jan-Gavino_Daath-Oil-on-Canvas-48-x-36-inches-2017.jpg",
         "3196"
       ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Kris-Gavino_ResonanceOil-on-Canvas40x30inches-2017.jpg",
-        "3195"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Erick-Villarruz_Papunta-ka-pa-Lang-Pabalik-na-Ako-40-x-30-inches-2017.jpg",
-        "3194"
-      ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Dominador-Laroza_Road-to-Perdition-Oplan-Exodus-Oil-on-Canvas40-x-30-inches-2017.jpg",
         "3193"
@@ -9972,14 +9508,6 @@
       "13": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Dilla_Vertical-Road-Oil-on-Canvas-40-x-30-2017.jpg",
         "3191"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Andrew-Tan_Ordinary-World-II-48-x-36-inches-2017.jpg",
-        "3190"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/04/Andrew-Tan_Ordinary-World-I-48-x-36-inches-2017.jpg",
-        "3189"
       ]
     },
     "_links": {
@@ -10616,45 +10144,9 @@
     "end_date": "March 27, 2017",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/Tadhana-front.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_The-Flight-IIIOil-on-Canvas28x36inches2014.jpg",
-        "3155"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_The-BasketPastel-on-Paper11.5-x-16-2.jpg",
-        "3154"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Still-Life-with-Space-DesignOil-on-Canvas30-x-40inches2016.jpg",
-        "3153"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Still-Life-with-Movement-Oil-on-Canvas20x24inches2013.jpg",
-        "3152"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Still-Life-from-my-Studio_Pastel-on-Paper11.5-x-16.jpg",
-        "3151"
-      ],
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Still-LIfe-Composition-with-White-DraperyPastel-on-Paper12.5-x-9.jpg",
         "3150"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Space-InteractionPastel-on-Paper9x12-inches2016.jpg",
-        "3149"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Sarimanok-StudyPastel-on-Paper9.5-x-12.jpg",
-        "3148"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Nude-Standing-Composition-Oil-on-Canvas21.jpg",
-        "3147"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Nude-Sitting-CompositionOil-on-Canvas21x18inches2014.jpg",
-        "3146"
       ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Isda-StudyPastel-on-Paper8.25-x-7.jpg",
@@ -10667,22 +10159,6 @@
       "13": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Fruit-and-SpacePastel-on-Paper12-x-9-inches2016.jpg",
         "3143"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Fragmented-Still-LIfe-Oil-on-Canvas24x18inches2015.jpg",
-        "3142"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Black-and-Yellow-Still-LifePastel-on-Paper11.5x16.jpg",
-        "3141"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Between-SpacePastel-on-Paper12.5-x-9.jpg",
-        "3140"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/03/SYM_Bagac-II-with-MovementOil-on-Canvas30-x-40inches2015.jpg",
-        "3139"
       ]
     },
     "_links": {
@@ -11424,14 +10900,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/Black-River.jpg",
         "3050"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/Cannes-France.jpg",
-        "3051"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/Fernando-Modesto_PigAcrylic-on-Canvas-82.jpg",
-        "3057"
-      ],
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/Francesca-Enriquez_Untitled-1.jpg",
         "3058"
@@ -11443,10 +10911,6 @@
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/IMG_20170107_170856.jpg",
         "3060"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/IMG_20170107_171007.jpg",
-        "3061"
       ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2017/01/Joven-Ignacio_Clara.jpg",
@@ -12292,10 +11756,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Serangoon-IIMixed-Media71.3-x-61.jpg",
         "2996"
       ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Serangoon-IMixed-Media73.5-x-60.jpg",
-        "2995"
-      ],
       "4": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Rainforest-Mixed-Media-71.3-x-61.jpg",
         "2994"
@@ -12311,14 +11771,6 @@
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Litany-of-Saints-No.-6-Mixed-Media-61-x-81.jpg",
         "2991"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Landscape-with-Saints-No.-9-Mixed-Media-61-x-81.jpg",
-        "2990"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_Landscape-with-Saints-No.-8-Mixed-Media-61-x-81.jpg",
-        "2989"
       ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Mario-de-Rivera_From-Peru-to-Cebu-No.2-Mixed-Media-61.1-x-71.jpg",
@@ -12547,14 +11999,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Carefree-and-Leisurely-Oil-on-Canvas-90-x-91cm-2007-Copy.jpg",
         "2963"
       ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Bright-Oil-on-Canvas-91-x-91cm-2010.jpg",
-        "2962"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_3000-Declarations-Oil-on-Canvas-60-x-60cm-2007.jpg",
-        "2960"
-      ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Grandeur-5Oil-on-Canvas-91-x-116.jpg",
         "2976"
@@ -12587,10 +12031,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_The-One-Oil-on-Canvas53-x-41cm-2013.jpg",
         "2979"
       ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Eastern-Rhapsody-4-Until-Sunrise-Oil-on-Canvas-72-x-72cm-2015.jpg",
-        "2967"
-      ],
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Eastern-Rhapsody-5-Oil-on-Canvas-72-x-72cm-2016.jpg",
         "2968"
@@ -12598,18 +12038,6 @@
       "18": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Eastern-Rhapsody-1-Oil-on-Canvas-117-x-72.jpg",
         "2965"
-      ],
-      "19": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Eastern-Rhapsody-2-Oil-on-Canvas-90-x-89.jpg",
-        "2966"
-      ],
-      "20": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_As-Free-as-the-WindOil-on-Canvas-90-x-90-cm-2013.jpg",
-        "2961"
-      ],
-      "21": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Eastern-Rhapsody-11-Oil-on-Canvas-72.jpg",
-        "2973"
       ],
       "22": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Ding-Xian_Glory-Oil-Painting91-x-116cm2013.jpg",
@@ -12797,10 +12225,6 @@
       "1": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Carating_Tumauini-Series-IAcrylic-on-Canvas122x122cm-2013.jpg",
         "2955"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Carating_Anxiety-2Acrylic-on-Canvas76-1.jpg",
-        "2956"
       ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/10/Carating_Tumauini-Series-IIAcrylic-on-Canvas122x122cm-2013.jpg",
@@ -13523,10 +12947,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/08/image_11.jpg",
         "2869"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/08/image_9.jpg",
-        "2867"
-      ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/08/image_7.jpg",
         "2865"
@@ -13779,42 +13199,6 @@
     "end_date": "August 15, 2016",
     "the_post_thumbnail": "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Polarities-Evite.jpg",
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Understanding-Both-Sides-I-Acrylic-and-Oil-on-Canvas-152.5-x-122-cm-2016.jpg",
-        "2856"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Understanding-Both-Sides-I-Acrylic-and-Oil-on-Canvas-152.5-x-122-cm-2016-2.jpg",
-        "2855"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Combine-Painting-Series-Pair-1Acrylic-and-Oil-on-Cut-Out-Paper76.2-x-112cm-2016-3.jpg",
-        "2849"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Combine-Painting-Series-Pair-2Acrylic-and-Oil-on-Cut-Out-Paper76.2-x-112cm-2016.jpg",
-        "2850"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Combine-Painting-Series-Pair-3Acrylic-and-Oil-on-Cut-Out-Paper76.2-x-112cm-2016.jpg",
-        "2852"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Combine-Painting-Series-Pair-3Acrylic-and-Oil-on-Cut-Out-Paper76.2-x-112cm-2016-2.jpg",
-        "2851"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Combine-Painting-Series-Pair-5Acrylic-and-Oil-on-Cut-Out-Paper76.2-x-112cm-2016.jpg",
-        "2853"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Untitled-Acrylic-and-Oil-on-Canvas91.5-x-91.5cm-2010.jpg",
-        "2857"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Lindslee_Only-Words-Acrylic-and-Oil-on-Canvas91.5-x-91.5cm-2007.jpg",
-        "2854"
-      ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/07/Donna-SySpeak-No-Evil-Acrylic-on-Canvas121.7-x-90.7cm2016.jpg",
         "2847"
@@ -15110,10 +14494,6 @@
     "end_date": "October 10, 2007",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Future-lucis.jpg",
-        "1760"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Future-day-1.jpg",
         "1754"
@@ -15362,14 +14742,6 @@
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Galaxies-full.jpg",
         "1767"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Galaxies-archangel.jpg",
-        "1765"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Galaxies-arabesque.jpg",
-        "1764"
       ]
     },
     "_links": {
@@ -16446,25 +15818,9 @@
     "end_date": "April 15, 2011",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-walls.jpg",
-        "1850"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-trapped.jpg",
         "1849"
-      ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-speechless.jpg",
-        "1848"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-song.jpg",
-        "1847"
-      ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-searching.jpg",
-        "1846"
       ],
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-notdelicate.jpg",
@@ -16477,10 +15833,6 @@
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-lonely.jpg",
         "1843"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-inside.jpg",
-        "1842"
       ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Guiness-hiding.jpg",
@@ -16669,14 +16021,6 @@
     "end_date": "May 12, 2014",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-vesselbig.jpg",
-        "1875"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-stopbig.jpg",
-        "1874"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-scarbig.jpg",
         "1873"
@@ -16689,10 +16033,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-lastbig.jpg",
         "1871"
       ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-howfarbig.jpg",
-        "1870"
-      ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-hardrockbig.jpg",
         "1869"
@@ -16704,10 +16044,6 @@
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-flashback1big.jpg",
         "1867"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Hiligaynon-aftermathbig.jpg",
-        "1865"
       ]
     },
     "_links": {
@@ -16892,10 +16228,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-harvest.jpg",
         "1905"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-waiting.jpg",
-        "1919"
-      ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-solitude.jpg",
         "1916"
@@ -16916,17 +16248,9 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-earth.jpg",
         "1901"
       ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-numb.jpg",
-        "1910"
-      ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-subject.jpg",
         "1917"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-odd.jpg",
-        "1911"
       ],
       "13": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-event.jpg",
@@ -16936,22 +16260,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-hiding.jpg",
         "1906"
       ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-context.jpg",
-        "1898"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-surrender.jpg",
-        "1918"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-not.jpg",
-        "1909"
-      ],
-      "18": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-invisible.jpg",
-        "1908"
-      ],
       "19": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-inman.jpg",
         "1907"
@@ -16959,10 +16267,6 @@
       "20": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-freedom.jpg",
         "1903"
-      ],
-      "21": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-cry.jpg",
-        "1899"
       ],
       "22": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Immortals-drop.jpg",
@@ -18282,10 +17586,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-solemn.jpg",
         "2028"
       ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-snow.jpg",
-        "2027"
-      ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-sleeping.jpg",
         "2026"
@@ -18346,10 +17646,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-cloud1.jpg",
         "2012"
       ],
-      "22": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-china.jpg",
-        "2011"
-      ],
       "23": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-buddhaside.jpg",
         "2010"
@@ -18365,10 +17661,6 @@
       "26": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-bali.jpg",
         "2007"
-      ],
-      "27": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-angkor.jpg",
-        "2006"
       ],
       "28": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Mystical-angelmoon.jpg",
@@ -19120,10 +18412,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-watcher.jpg",
         "2145"
       ],
-      "3": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-voices.jpg",
-        "2144"
-      ],
       "4": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-untitled2.jpg",
         "2143"
@@ -19172,10 +18460,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-meat.jpg",
         "2098"
       ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-mangingisda.jpg",
-        "2096"
-      ],
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-making.jpg",
         "2095"
@@ -19208,10 +18492,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-human.jpg",
         "2086"
       ],
-      "25": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-hayumahan.jpg",
-        "2084"
-      ],
       "26": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-half.jpg",
         "2083"
@@ -19220,10 +18500,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-execution.jpg",
         "2079"
       ],
-      "28": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-exaltation.jpg",
-        "2078"
-      ],
       "29": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-endless.jpg",
         "2075"
@@ -19231,10 +18507,6 @@
       "30": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-dog.jpg",
         "2074"
-      ],
-      "31": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-day.jpg",
-        "2070"
       ],
       "32": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Dawn-conspiracy.jpg",
@@ -19437,25 +18709,13 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Behold_All_Of_Me_600x765.jpg",
         "528"
       ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/spinebig.jpg",
-        "449"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/The-Day-I-Learned-to-Pray.jpg",
         "134"
       ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Rebel-Nature.jpg",
-        "133"
-      ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Gently-Raging.jpg",
         "130"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Fly-Away-With-Me.jpg",
-        "129"
       ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Dreaming-of-Mistakes.jpg",
@@ -19464,10 +18724,6 @@
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Ashamed-and-Shameless.jpg",
         "126"
-      ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/A-Cup-of-Love.jpg",
-        "125"
       ]
     },
     "_links": {
@@ -19714,10 +18970,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-nena_untitled.jpg",
         "2156"
       ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-magkabiyak.jpg",
-        "2155"
-      ],
       "18": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-livingroom.jpg",
         "2154"
@@ -19737,10 +18989,6 @@
       "22": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-flor.jpg",
         "2150"
-      ],
-      "23": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-cristo.jpg",
-        "2149"
       ],
       "24": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/New-Finds-chismis.jpg",
@@ -20156,10 +19404,6 @@
     "end_date": "October 31, 2006",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/pain-untitled3.jpg",
-        "2220"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/pain-untitled2.jpg",
         "2219"
@@ -20650,10 +19894,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_Distance-Acrylic-on-Canvas-118.8-x-120.7-cm.jpg",
         "2670"
       ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_Untitled-III-Acrylic-on-Canvas-119.8-x-103.3-cm.jpg",
-        "2681"
-      ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_Untitled-II-Acrylic-on-Canvas-59.5-x-59.5-cm.jpg",
         "2680"
@@ -20681,10 +19921,6 @@
       "15": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_I-Love-You-II-Acrylic-on-Canvas94-x-92.7-cm.jpg",
         "2672"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_An-Angel-Peeping-Through-my-WindowOil-on-Canvas121.3-x-121-cm.jpg",
-        "2668"
       ],
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Fernando-Modesto_Angel-Spitting-Water-Acrylic-on-Canvas-39-x-30.5-cm.jpg",
@@ -21510,10 +20746,6 @@
     "end_date": "",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "",
-        ""
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/HansBruman-Organic-Cross-3.jpg",
         "1861"
@@ -22314,10 +21546,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Reverie-kid.jpg",
         "2300"
       ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Reverie-eros.jpg",
-        "2299"
-      ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Reverie-diversion.jpg",
         "2298"
@@ -22736,14 +21964,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Work-captain.jpg",
         "2321"
       ],
-      "5": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Work-break.jpg",
-        "2320"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Work-blanket.jpg",
-        "2319"
-      ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Work-blank.jpg",
         "2318"
@@ -22940,10 +22160,6 @@
       "6": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/WarHeads-headshot2.jpg",
         "2329"
-      ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/WarHeads-grid.jpg",
-        "2328"
       ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/WarHeads-echo.jpg",
@@ -23374,10 +22590,6 @@
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Unbearable-perfectday1.jpg",
         "2356"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Unbearable-july.jpg",
-        "2355"
       ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Unbearable-butanding.jpg",
@@ -24206,10 +23418,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-voices.jpg",
         "2430"
       ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-two.jpg",
-        "2429"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-spring.jpg",
         "2428"
@@ -24222,17 +23430,9 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-milkblood.jpg",
         "2426"
       ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-milk.jpg",
-        "2425"
-      ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-man.jpg",
         "2424"
-      ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-hello.jpg",
-        "2423"
       ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-grabbing.jpg",
@@ -24245,10 +23445,6 @@
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-distance.jpg",
         "2420"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-declogging.jpg",
-        "2419"
       ],
       "13": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Threes-brainstorming.jpg",
@@ -25883,10 +25079,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Sofronio-Mendoza-Nude-in-Spatial-Arrangement.jpg",
         "2549"
       ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Sofronio-Mendoza-Fruits.jpg",
-        "2548"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-yellowmovement.jpg",
         "2492"
@@ -25898,10 +25090,6 @@
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-stillbottle.jpg",
         "2481"
-      ],
-      "6": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-stillvase.jpg",
-        "2484"
       ],
       "7": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-stillvegetables.jpg",
@@ -25923,10 +25111,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-redbottle.jpg",
         "2477"
       ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-threecherries.jpg",
-        "2488"
-      ],
       "13": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-watermelonblack.jpg",
         "2490"
@@ -25934,10 +25118,6 @@
       "14": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-statue.jpg",
         "2480"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Sofronio-Mendoza-Yellow-Movement.jpg",
-        "2552"
       ],
       "16": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-mango.jpg",
@@ -25975,10 +25155,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-bluevase.jpg",
         "2462"
       ],
-      "25": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-bluegreen.jpg",
-        "2461"
-      ],
       "26": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-basket3.jpg",
         "2460"
@@ -25986,10 +25162,6 @@
       "27": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-kalabasa.jpg",
         "2474"
-      ],
-      "28": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Sofronio-Mendoza-Apple-with-white-Cloth.jpg",
-        "2546"
       ],
       "29": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Sofronio-Mendoza-Watermelon.jpg",
@@ -26010,10 +25182,6 @@
       "33": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-from2.jpg",
         "2471"
-      ],
-      "34": [
-        "",
-        "2463"
       ],
       "35": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Summation-from1.jpg",
@@ -26236,10 +25404,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-towards.jpg",
         "2569"
       ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-thirdhorseman.jpg",
-        "2568"
-      ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-michael.jpg",
         "2562"
@@ -26256,10 +25420,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-fourthhorseman.jpg",
         "2559"
       ],
-      "13": [
-        "",
-        "2560"
-      ],
       "14": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-exterminating.jpg",
         "2557"
@@ -26267,10 +25427,6 @@
       "15": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-antinganting4.jpg",
         "2555"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-antinganting3.jpg",
-        "2554"
       ],
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/SNSDTequi-antinganting2.jpg",
@@ -27152,10 +26308,6 @@
     "end_date": "January 8, 2015",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-xwars2.jpg",
-        "2536"
-      ],
       "2": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-state.jpg",
         "2535"
@@ -27163,10 +26315,6 @@
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-reaper.jpg",
         "2534"
-      ],
-      "4": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-predator.jpg",
-        "2533"
       ],
       "5": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-newcaptive.jpg",
@@ -27176,25 +26324,13 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-heart.jpg",
         "2531"
       ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-headshot2.jpg",
-        "2530"
-      ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-fragile.jpg",
         "2527"
       ],
-      "9": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-exit.jpg",
-        "2526"
-      ],
       "10": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-clone.jpg",
         "2525"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Specific-boy.jpg",
-        "2524"
       ]
     },
     "_links": {
@@ -27387,10 +26523,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/thinkingbig.jpg",
         "967"
       ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Untitled-I-Acrylic-on-Canvas-61.7-x-75.7-cm.jpg",
-        "1159"
-      ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/Image-1.jpg",
         "1123"
@@ -27398,34 +26530,6 @@
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Rococo-Third-Moon-Acrylic-on-Canvas-77.8-x-68.9cm.jpg",
         "1155"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Untitled-I-Acrylic-on-Canvas-61.7-x-75.7-cm.jpg",
-        "1159"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Water-False-I-Acrylic-on-Canvas-87.5-x-101.5-cm.jpg",
-        "1164"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/07/antinganting3big.jpg",
-        "931"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2015/08/nuestra-senora-dela-paz-y-buen-viaje-marked.jpg",
-        "1066"
-      ],
-      "14": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/anting-anting-3-marked.jpg",
-        "1240"
-      ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/anting-anting-4-marked.jpg",
-        "1241"
-      ],
-      "16": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/anting-anting-5-marked.jpg",
-        "1242"
       ],
       "17": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/anunciacion-marked.jpg",
@@ -27447,10 +26551,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/nuestra-senora-de-guia-marked.jpg",
         "1247"
       ],
-      "22": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/nuestra-senora-dela-leche-marked.jpg",
-        "1248"
-      ],
       "23": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/nuestra-senora-dela-paz-marked.jpg",
         "1249"
@@ -27458,10 +26558,6 @@
       "24": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/nuestra-senora-dela-paz-y-buen-viaje-marked.jpg",
         "1250"
-      ],
-      "25": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/presentacion-marked.jpg",
-        "1251"
       ],
       "26": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/purgatorio-2-marked.jpg",
@@ -27523,14 +26619,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Diwata-marked.jpg",
         "1271"
       ],
-      "41": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/dowry-marked.jpg",
-        "1272"
-      ],
-      "42": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/machine-marked.jpg",
-        "1273"
-      ],
       "43": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/nocturnal-Song-marked.jpg",
         "1274"
@@ -27538,14 +26626,6 @@
       "44": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/schism-marked.jpg",
         "1275"
-      ],
-      "45": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/tribal-crooner-marked.jpg",
-        "1276"
-      ],
-      "46": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/two-mothers-of-kulaman-valley-marked.jpg",
-        "1277"
       ],
       "47": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/valley-at-dusk-marked.jpg",
@@ -27578,14 +26658,6 @@
       "54": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Ang-USA-Isang-Direktor-marked.jpg",
         "1308"
-      ],
-      "55": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/bakit-sila-marked.jpg",
-        "1309"
-      ],
-      "56": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/grabbing-the-tits-of-raccoons-for-money-marked.jpg",
-        "1314"
       ],
       "57": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/untitled-b2b-marked.jpg",
@@ -27812,10 +26884,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Troubled-gravity.jpg",
         "2405"
       ],
-      "7": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Troubled-factory.jpg",
-        "2403"
-      ],
       "8": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Troubled-mutation.jpg",
         "2409"
@@ -27997,10 +27065,6 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-spine.jpg",
         "1888"
       ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-severa.jpg",
-        "1887"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-run.jpg",
         "1886"
@@ -28028,10 +27092,6 @@
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-gunmetal.jpg",
         "1880"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-gifts.jpg",
-        "1879"
       ],
       "11": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/05/Howling-freefall.jpg",
@@ -29316,7 +28376,6 @@
         ]
       }
     },
-    "cover_art": "",
     "artists": [],
     "venue": "Hiraya Gallery ",
     "notes": "<p class=\"MsoNormal\"><b style=\"mso-bidi-font-weight: normal;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">Salvaged Memories, Salvaged Lives</span></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\"><span style=\"mso-spacerun: yes;\"> </span>At the amazing young age of 28 (at the time of the artwork’s execution) Dilla had obviously not been born during the Martial law regime. Dilla researched assiduously and distilled the wealth of materials into a few selected but significant elements. </span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\"><span style=\"mso-spacerun: yes;\">       </span>The central figure, of course, is the Dictator himself, here depicted appropriately with iron hands, depicted in his characteristically imperious gesture which we Filipinos knew at the time that his word was law. Symbolizing the greed of the Dictator and his obsession with gold are the gold bars, tumbling down from a weighing scale. </span></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">On the upper right hand part of the painting are the framed portraits of the so-called “Rolex 12,” thus tagged so, having been beneficiaries of the status symbol brand of watch. What completes the visual narrative are the Filipino <i style=\"mso-bidi-font-style: normal;\">desaparecidos</i> (Spanish for forced disappearance, adapted from Latin America’s victims of dictatorship). These are our unfortunate countrymen who were the tortured victims of human rights abuses, physically vanished from the face of the earth. Martial Law justified extrajudicial killings, summary execution, arbitrary arrest and detention of political activists, outspoken journalists and dissident social figures. Dilla depicted some of them with heads shrouded in purple, the symbolic penitential color of Lent.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">The Philippine tricolor itself has now been denigrated to a serviceable presidential tablecloth, bedraggled and chained as a virtual prisoner of the Dictator, before which he had once sworn his allegiance.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">The title of the 8 feet x 18.5 feet mural Salvaged Memories, Salvaged Lives features the word “salvaged”, a curious word<span style=\"mso-spacerun: yes;\">  </span>on which the Urban Dictionary has remarked<i style=\"mso-bidi-font-style: normal;\">: In the Philippines, “to salvage” means “to kill” that person, which is the opposite meaning of the word, which is “to save.”</i> What can one say? </span></p>\r\n<p><!-- [if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves/>\r\n  <w:TrackFormatting/>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>JA</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextWithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBreakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n   <w:OverrideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIndent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!-- [if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r\n  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"276\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!-- [if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0in 5.4pt 0in 5.4pt;\r\n\tmso-para-margin-top:0in;\r\n\tmso-para-margin-right:0in;\r\n\tmso-para-margin-bottom:10.0pt;\r\n\tmso-para-margin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n<![endif]--> <!--StartFragment--> <!--EndFragment--></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">Only in the Philippines.</span></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"> </p>\r\n<p class=\"MsoNormal\"><b style=\"mso-bidi-font-weight: normal;\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">#WHATNOW</span></b></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">Dilla’s second mural, #WHATNOW, measuring 8feet by 17feet, was conceived with a raging and<span style=\"mso-spacerun: yes;\">  </span>overwhelming emotional temper, a vision whirling with conflicts between institutions despite the dictum of the separation of Church and State. Alas, it is a disturbing portrait of a country in a perpetual state of upheaval and turmoil, pathetically left behind by other Asian countries, while governed by grandstanding leaders heedless of the people’s plight.<span style=\"mso-spacerun: yes;\">                                        </span></span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">Sporting the noses of Pinocchio, ever lengthening with their shameless lies, are the supposedly honorable politicians afflicted with chronic corruption while men in dapper black suits, smartly hidden behind stylish sunglasses, and all bereft of social conscience, are representations of the powers of Business, Commerce<span style=\"mso-spacerun: yes;\">  </span>and Industry, generating vast profits that hardly trickle down to the poorest of the poor, who in their unassuageable hunger, have now assumed the visages of starving dogs roaming the streets of the metropolis.</span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\"><span style=\"mso-tab-count: 1;\">         </span>Like a centripetal force, the various figural elements are swept towards the vortex of the mural, the Throne of Power, where the Occupant has securely planted himself, as evidenced by the “family tree” sprouting from his wooden Pinocchio nose. No doubt, this is Dilla’s indictment of the political dynasties prevalent in our country which the politicians themselves are adamant not to be uprooted.<span style=\"mso-spacerun: yes;\">  </span>In the guise of assuring the people of the continuity of their services, the people are not fooled. In fact, are they not actually helping to serve themselves? Thus the appropriate mascot of the crocodile mask worn by a politician depicted in the pretentious pose of a monument, which the populace have roped in order to topple down. </span></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\">In his 1935 inaugural address as president of the Commonwealth of the Philippines, Manuel Luis Quezon delivered a statement that, now in retrospect, sounds portentously prophetic: <i style=\"mso-bidi-font-style: normal;\">“I would prefer a country run like hell by Filipinos, than a country run like heaven by the Americans.”</i></span></p>\r\n<p class=\"MsoNormal\" style=\"text-indent: .5in;\"><!-- [if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves/>\r\n  <w:TrackFormatting/>\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>JA</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextWithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBreakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n   <w:OverrideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIndent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!-- [if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r\n  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"276\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"59\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]--> <!-- [if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0in 5.4pt 0in 5.4pt;\r\n\tmso-para-margin-top:0in;\r\n\tmso-para-margin-right:0in;\r\n\tmso-para-margin-bottom:10.0pt;\r\n\tmso-para-margin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n<![endif]--> <!--StartFragment--> <!--EndFragment--></p>\r\n<p class=\"MsoNormal\"><span lang=\"EN-PH\" style=\"font-size: 14.0pt; line-height: 115%;\"><span style=\"mso-tab-count: 1;\">         </span>Has the wish finally come true?</span></p>",
@@ -29491,14 +28550,6 @@
     "end_date": "April 15, 2016",
     "the_post_thumbnail": false,
     "slide": {
-      "1": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Water-False-I-Acrylic-on-Canvas-87.5-x-101.5-cm.jpg",
-        "1164"
-      ],
-      "2": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Khartoum-Acrylic-on-Canvas-119.4-x-117.7-cm.jpg",
-        "1151"
-      ],
       "3": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Picassos-Back-II-Acrylic-on-Canvas-116.3-x-120.8cm.jpg",
         "1153"
@@ -29519,49 +28570,17 @@
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Sweet-Angel-Acrylic-on-Canvas-119.5-x-89.5-cm.jpg",
         "1165"
       ],
-      "8": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Distance-Acrylic-on-Canvas-118.8-x-120.7-cm.jpg",
-        "1150"
-      ],
       "9": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Two-Moons-Acrylic-on-Canvas-119.7-x-118-cm.jpg",
         "1163"
-      ],
-      "10": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Siquijor-II-Acrylic-on-Canvas-121.6-x-121-cm.jpg",
-        "1162"
-      ],
-      "11": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Untitled-III-Acrylic-on-Canvas-119.8-x-103.3-cm.jpg",
-        "1161"
-      ],
-      "12": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Reflection-of-the-Two-Moons-Acrylic-on-Canvas-90.3-x-101.6-cm.jpg",
-        "1154"
-      ],
-      "13": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Untitled-II-Acrylic-on-Canvas-59.5-x-59.5-cm.jpg",
-        "1160"
       ],
       "14": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Angel-on-Top-of-the-World-II-Acrylic-on-Canvas-49.5-x-49.5cm-1.jpg",
         "1158"
       ],
-      "15": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Untitled-I-Acrylic-on-Canvas-61.7-x-75.7-cm.jpg",
-        "1159"
-      ],
       "16": [
         "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Rococo-Third-Moon-Acrylic-on-Canvas-77.8-x-68.9cm.jpg",
         "1155"
-      ],
-      "17": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Scotland-Acrylic-on-Canvas-60.8-x-60.5cm.jpg",
-        "1156"
-      ],
-      "18": [
-        "https://hiraya.s3.ap-southeast-2.amazonaws.com/2016/04/Fernando-Modesto_Tapies-Acrylic-on-Canvas-81.3-x-61cm.jpg",
-        "1157"
       ]
     },
     "_links": {
